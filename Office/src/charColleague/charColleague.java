@@ -27,7 +27,7 @@ public class charColleague {
 		charColleague Shawon=new charColleague();
 		Shawon.print();
 		charColleague Bopu=Shawon;
-		Bopu.upgrade();
+		Shawon.upgrade();
 		Bopu.print();
 		
 	}
